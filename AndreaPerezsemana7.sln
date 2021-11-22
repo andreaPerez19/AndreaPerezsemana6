@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreaPerezsemana6.Android", "AndreaPerezsemana6.Android\AndreaPerezsemana6.Android.csproj", "{207B2B94-F93A-4B1E-8DC7-4B453C12142B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreaPerezsemana7.Android", "AndreaPerezsemana6.Android\AndreaPerezsemana7.Android.csproj", "{207B2B94-F93A-4B1E-8DC7-4B453C12142B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreaPerezsemana6.iOS", "AndreaPerezsemana6.iOS\AndreaPerezsemana6.iOS.csproj", "{DB512D37-41E1-4071-953A-C6F79EC68975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreaPerezsemana7.iOS", "AndreaPerezsemana6.iOS\AndreaPerezsemana7.iOS.csproj", "{DB512D37-41E1-4071-953A-C6F79EC68975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreaPerezsemana6", "AndreaPerezsemana6\AndreaPerezsemana6.csproj", "{02909A08-445F-4BB7-8F91-9D30BF174B2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndreaPerezsemana7", "AndreaPerezsemana6\AndreaPerezsemana7.csproj", "{02909A08-445F-4BB7-8F91-9D30BF174B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
